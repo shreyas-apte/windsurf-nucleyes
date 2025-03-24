@@ -16,6 +16,11 @@ export const metadata: Metadata = {
   title: "Nucleyes | Innovative Solutions",
   description: "Nucleyes - Empowering businesses with cutting-edge technology solutions",
   keywords: ["nucleyes", "technology", "innovation", "solutions"],
+  icons: {
+    icon: "/nucleyes-icon.svg",
+    apple: "/nucleyes-icon.svg",
+    shortcut: "/nucleyes-icon.svg"
+  },
 };
 
 export default function RootLayout({
