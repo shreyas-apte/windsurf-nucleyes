@@ -216,7 +216,7 @@ export default function Services() {
               <div className="order-2">
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">IT Consulting</h3>
                 <p className="text-gray-600 mb-6">
-                  Our experienced consultants provide strategic guidance to help businesses align their technology investments with their business objectives. We'll help you navigate complex technology landscapes and make informed decisions.
+                  Our experienced consultants provide strategic guidance to help businesses align their technology investments with their business objectives. We&apos;ll help you navigate complex technology landscapes and make informed decisions.
                 </p>
                 <ul className="space-y-2">
                   <li className="flex items-start">

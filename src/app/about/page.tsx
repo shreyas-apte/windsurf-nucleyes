@@ -67,7 +67,7 @@ export default function About() {
                   Founded in 2020, Nucleyes was born from a vision to transform how businesses leverage technology. Our founders, a team of industry veterans with decades of combined experience, recognized a gap in the market for truly integrated technology solutions.
                 </p>
                 <p>
-                  What began as a small consultancy has grown into a comprehensive technology partner serving clients across industries and continents. Our journey has been defined by constant innovation, unwavering commitment to quality, and a deep understanding of our clients' evolving needs.
+                  What began as a small consultancy has grown into a comprehensive technology partner serving clients across industries and continents. Our journey has been defined by constant innovation, unwavering commitment to quality, and a deep understanding of our clients&apos; evolving needs.
                 </p>
                 <p>
                   Today, Nucleyes stands at the forefront of digital transformation, helping organizations navigate the complexities of modern technology landscapes with confidence and clarity.
